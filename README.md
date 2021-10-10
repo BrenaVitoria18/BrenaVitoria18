@@ -20,4 +20,4 @@ Atualmente estou estudando assuntos sobre desenvolvimento de sistemas: Arquitetu
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   </div>
 
-![Snake animation](https://github.com/brenavitoria18/brenavitoria18/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrenaVitoria18/BrenaVitoria18/blob/output/github-contribution-grid-snake.svg)
