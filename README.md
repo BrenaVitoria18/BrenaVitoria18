@@ -13,12 +13,9 @@
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-    
-         
-     
    </div>
 
-##
+##<img align="right"  src="https://i.picasion.com/pic91/3fac4484a0de71f6b9ed62c7a832d0d6.gif">
   
 <div> 
  
